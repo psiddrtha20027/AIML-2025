@@ -20,7 +20,7 @@
 
 <a href="https://github.com/psiddrtha20027/AIML-2025/blob/main/LAB_NO_2.ipynb">LAB 02</a>
 
-<a href="hhttps://github.com/psiddrtha20027/AIML-2025/blob/main/Lab03.ipynb">LAB 03</a>
+<a href="https://github.com/psiddrtha20027/AIML-2025/blob/main/Lab03.ipynb">LAB 03</a>
 
 <a href=https://github.com/psiddrtha20027/AIML-2025/blob/main/LAB%20NO.4.ipynb>LAB 04</a>
 
